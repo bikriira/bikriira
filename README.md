@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @bikriira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m @bikriira
+## i'm from i a young developer with a great desire to invent some thing new
+### if you fount some thing that can help me in my journey please help
 
-<!---
-bikriira/bikriira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
