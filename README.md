@@ -10,7 +10,7 @@ I'm a passionate software developer with a diverse skill set. Here are some of t
 ## 🚀 Projects
 
 - [To be updated]
-## 🌱 Currently Learning
+## 🌱 Currently Learning @Alx Software Engineering program
 
 I am currently focused on improving my skills in:
 
@@ -19,10 +19,8 @@ I am currently focused on improving my skills in:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Iradufasha Bikri](https://www.linkedin.com/in/iradufasha-bikri/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- Portfolio: [Your Portfolio Website](https://your-portfolio-website.com)
+- LinkedIn: [@Iradufasha Bikri](https://www.linkedin.com/in/IradufashaBikri)
+- Twitter: [@IradufashaBikri](https://twitter.com/IradufashaBikri)
+- Portfolio website: Comming soon!
 
 Feel free to explore my repositories, and let's connect!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
